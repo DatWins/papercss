@@ -30,7 +30,7 @@ params:
 
 menu:
   nav:
-    - name: Concepts
+    - name: Blog
       url: /
       weight: 1
     - name: Tags
