@@ -5,5 +5,4 @@ aliases = ["about-us"]
 author = "Hugo Authors"
 +++
 
-This is a chess teaching manual for young students. It will explain basic concepts, strategies, and methods to help students in becoming
-a better chess player. 
+This is my daily journal at my workplace. I create this diary to help me remember how I handled situations at my job.T
